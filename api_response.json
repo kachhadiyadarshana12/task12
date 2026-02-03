@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Glafira",
+                "last": "Ilinskiy"
+            },
+            "location": {
+                "street": {
+                    "number": 6450,
+                    "name": "Yakova Ostryanici"
+                },
+                "city": "Zhitomir",
+                "state": "Hersonska",
+                "country": "Ukraine",
+                "postcode": 96625,
+                "coordinates": {
+                    "latitude": "80.6763",
+                    "longitude": "64.6306"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "glafira.ilinskiy@example.com",
+            "login": {
+                "uuid": "35c9aa4d-f38c-4c80-afcc-4b4f19b13bc3",
+                "username": "silverfish771",
+                "password": "sable",
+                "salt": "mFWWFbl7",
+                "md5": "f2c0c467f301d611c80b7e77dc869b0d",
+                "sha1": "ef27656fcbb2e0f8638cab5a1058fdd7082ce825",
+                "sha256": "4723be9ca57c42d6fa5146b54bb1f6d2d4ea590def2b3bc527342608583b0249"
+            },
+            "dob": {
+                "date": "1959-04-15T23:19:53.363Z",
+                "age": 66
+            },
+            "registered": {
+                "date": "2021-03-24T09:53:11.540Z",
+                "age": 4
+            },
+            "phone": "(097) T12-7717",
+            "cell": "(066) G45-1038",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "dbf5ac2d8c5b6363",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
